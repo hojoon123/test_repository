@@ -1,0 +1,10 @@
+
+
+def who_i_am(abc):
+    print(f"나는 {abc}이었어!!")
+    
+
+if __name__ == "__main__":
+    print("나는 누구? 여긴 어디")
+    who_i_am("강호준")
+    
