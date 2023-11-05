@@ -1,7 +1,7 @@
 
 
 def who_i_am(abc):
-    print(f"나는 {abc}이었어!! 내 branch는 hojun branch야!!")
+    print(f"나는 {abc}이었어!!")
     
 
 if __name__ == "__main__":
