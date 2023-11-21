@@ -7,6 +7,9 @@ def who_i_am(abc):
 
 if __name__ == "__main__":
     a = 3
+    print(a)
+    a = 33
+    print(a)
     print("나는 누구? 여긴 어디")
     who_i_am("강호준")
     
